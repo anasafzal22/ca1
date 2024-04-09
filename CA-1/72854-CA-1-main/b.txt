@@ -1,0 +1,64 @@
+ABSTRACT CLASS: 
+In C#, an abstract class is one that lacks instantiation support and frequently has one or more abstract methods. A method that is declared but not implemented is called an abstract method. In order to provide a consistent description of a base class that several derived classes can share, abstract classes are used as a base class for other classes that extend and implement the abstract methods.
+
+
+
+CODE:
+using System;
+abstract class Shape
+{
+    public abstract double CalculateArea();
+    public void DisplayArea()
+    {
+        Console.WriteLine($"Area: {CalculateArea()}");
+    }
+}
+
+class Rectangle : Shape
+{
+    public double Length { get; set; }
+    public double Width { get; set; }
+
+    public Rectangle(double length, double width)
+    {
+        Length = length;
+        Width = width;
+    }
+
+    public override double CalculateArea()
+    {
+        return Length * Width;
+    }
+}
+
+class Triangle : Shape
+{
+    public double BaseLength { get; set; }
+    public double Height { get; set; }
+
+    public Triangle(double baseLength, double height)
+    {
+        BaseLength = baseLength;
+        Height = height;
+    }
+
+    public override double CalculateArea()
+    {
+        return 0.5 * BaseLength * Height;
+    }
+}
+
+class Program
+{
+    static void Main()
+    {
+
+        Rectangle rectangle = new Rectangle(5, 10);
+        Triangle triangle = new Triangle(4, 7);
+        Shape shape1 = rectangle;
+        Shape shape2 = triangle;
+
+        shape1.DisplayArea(); 
+        shape2.DisplayArea(); 
+    }
+}

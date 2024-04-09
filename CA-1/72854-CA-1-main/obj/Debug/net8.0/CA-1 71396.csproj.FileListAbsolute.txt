@@ -1,0 +1,14 @@
+C:\Users\shehr\OneDrive\Desktop\CA-1\72854-CA-1-main\bin\Debug\net8.0\CA-1 71396.exe
+C:\Users\shehr\OneDrive\Desktop\CA-1\72854-CA-1-main\bin\Debug\net8.0\CA-1 71396.deps.json
+C:\Users\shehr\OneDrive\Desktop\CA-1\72854-CA-1-main\bin\Debug\net8.0\CA-1 71396.runtimeconfig.json
+C:\Users\shehr\OneDrive\Desktop\CA-1\72854-CA-1-main\bin\Debug\net8.0\CA-1 71396.dll
+C:\Users\shehr\OneDrive\Desktop\CA-1\72854-CA-1-main\bin\Debug\net8.0\CA-1 71396.pdb
+C:\Users\shehr\OneDrive\Desktop\CA-1\72854-CA-1-main\obj\Debug\net8.0\CA-1 71396.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shehr\OneDrive\Desktop\CA-1\72854-CA-1-main\obj\Debug\net8.0\CA-1 71396.AssemblyInfoInputs.cache
+C:\Users\shehr\OneDrive\Desktop\CA-1\72854-CA-1-main\obj\Debug\net8.0\CA-1 71396.AssemblyInfo.cs
+C:\Users\shehr\OneDrive\Desktop\CA-1\72854-CA-1-main\obj\Debug\net8.0\CA-1 71396.csproj.CoreCompileInputs.cache
+C:\Users\shehr\OneDrive\Desktop\CA-1\72854-CA-1-main\obj\Debug\net8.0\CA-1 71396.dll
+C:\Users\shehr\OneDrive\Desktop\CA-1\72854-CA-1-main\obj\Debug\net8.0\refint\CA-1 71396.dll
+C:\Users\shehr\OneDrive\Desktop\CA-1\72854-CA-1-main\obj\Debug\net8.0\CA-1 71396.pdb
+C:\Users\shehr\OneDrive\Desktop\CA-1\72854-CA-1-main\obj\Debug\net8.0\CA-1 71396.genruntimeconfig.cache
+C:\Users\shehr\OneDrive\Desktop\CA-1\72854-CA-1-main\obj\Debug\net8.0\ref\CA-1 71396.dll
